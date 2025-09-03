@@ -79,7 +79,7 @@ Follow the prompts to create your admin username and password.
 python manage.py runserver
 ```
 
-The application will be available at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+The application will be available at [https://studybud-app.onrender.com/](https://studybud-app.onrender.com/).
 
 ## Usage
 
